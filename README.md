@@ -1,5 +1,7 @@
 # reset-mac
-Script to reinstall everything after resetting Mac
+
+# Make sure everything is backed up on TimeMachine!!
+Script to reinstall everything after resetting Mac.
 
 Installs Homebrew using this: https://github.com/Homebrew/install
 
