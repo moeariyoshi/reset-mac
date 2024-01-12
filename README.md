@@ -11,3 +11,4 @@ Installs Homebrew using this: https://github.com/Homebrew/install
 - Notion
 - Spotify 
 - Microsoft Office
+- Google Chrome
