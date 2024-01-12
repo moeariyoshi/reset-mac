@@ -12,3 +12,4 @@ Installs Homebrew using this: https://github.com/Homebrew/install
 - Spotify 
 - Microsoft Office
 - Google Chrome
+- Docker
