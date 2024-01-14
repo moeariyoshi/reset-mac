@@ -24,6 +24,10 @@ brew install --cask google-chrome
 # VSCode
 brew install --cask visual-studio-code
 
+# AWS CLI
+curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+sudo installer -pkg AWSCLIV2.pkg -target /
+
 # NordVPN
 brew install --cask nordvpn
 
