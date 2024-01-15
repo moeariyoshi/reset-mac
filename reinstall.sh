@@ -28,6 +28,10 @@ brew install --cask visual-studio-code
 curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 sudo installer -pkg AWSCLIV2.pkg -target /
 
+# Terraform CLI
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+
 # NordVPN
 brew install --cask nordvpn
 
